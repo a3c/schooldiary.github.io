@@ -30,7 +30,7 @@ Enter the OTP (One Time Password) that you have received on your registered mobi
 To send a message click on &quot;Messages&quot; tab on the left menu, select recipients/broadcast list, type your message into the message box and click on &quot;Post&quot;.
 <img src="../images/FAQ_Messaging_Detail.png	">
 
-You can also attach up to 10 images (total file size of 10 mb all put together) in one go. To attach click on the attach file icon and simply drag and drop your image to the attachment tab and click on Post. Please refer the screenshot below.
+You can also attach up to 10 images (total file size of 10 mb all put together) in one go. To attach click on the attach file icon and simply drag and drop your image to the attachment tab and click on Post. Please refer the screenshot below. 
 
 ## How can I search a message?
 
