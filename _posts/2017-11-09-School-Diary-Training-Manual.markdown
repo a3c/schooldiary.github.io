@@ -7,7 +7,7 @@
 
 ## How to login into School Diary?
 
-To Login into school Diary enter your registered mobile number in the ID and given password in the password field and click on the Submit button. Please check with School Diary support team OR School admin if you are not sure about your ID &amp;Password details.
+To login into SchoolDiary enter your registered mobile number in the ID and given password in the password field and click on the #Submit button. Please check with SchoolDiary support team OR your school admin if you are not sure about your ID &amp; Password details.
 <img src="../images/FAQ_login2.png">
 
 ## What if I have forgotten my password?
