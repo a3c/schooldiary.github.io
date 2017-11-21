@@ -385,7 +385,7 @@ Every school has some activitiy/functions/events that happen daily at School or 
 
 ## How can I create an Event?
 
-To create an Event click on the &#39;Event&#39; tab on the main menu. Once you are in the Event module, hover over a date for which you want to create an event and click on the &#39; +&#39 icon. On the popup, choose event type (school/class/staff/parent), end date for the event, enter description for the event and click on the &#39;Create Event&#39; Select holiday check box if its a holiday event.
+To create an Event click on the &#39;Event&#39; tab on the main menu. Once you are in the Event module, hover over a date for which you want to create an event and click on the &#39;+&#39; icon. On the popup, choose event type (school/class/staff/parent), end date for the event, enter description for the event and click on the &#39;Create Event&#39; Select holiday check box if its a holiday event.
 <img src="../images/FAQ_addnewevent1.png">
 <img src="../images/FAQ_Event_AddnewEvent.png">
 
