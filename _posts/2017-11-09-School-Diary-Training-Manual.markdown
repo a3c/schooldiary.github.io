@@ -57,7 +57,7 @@ To edit a message, click on the message and go to message detail screen. Once yo
 
 ## How can I close a conversation?
 
- To close any conversation thread you can click on that conversation threat and open it. Once the conversation thread opens you can close the thread by clicking on the &#39;Close&#39; button on the top right.
+ To close any conversation thread you can click on that conversation thread and open it. Once the conversation thread opens you can close the thread by clicking on the &#39;Close&#39; button on the top right.
 
 Once closed, no replies can be sent on that conversation thread.
 <img src="../images/FAQ_messaging_closeathread.png">
@@ -385,7 +385,7 @@ Every school has some activitiy/functions/events that happen daily at School or 
 
 ## How can I create an Event?
 
-To create an Event click on the &#39;Event&#39; tab on the main menu. Once you are in the Event module, hover over a date for which you want to create an event and click on the &#39;+&#39 icon. On the popup, choose event type (school/class/staff/parent), end date for the event, enter description for the event and click on the &#39;Create Event&#39; Select holiday check box if its a holiday event.
+To create an Event click on the &#39;Event&#39; tab on the main menu. Once you are in the Event module, hover over a date for which you want to create an event and click on the &#39; +&#39 icon. On the popup, choose event type (school/class/staff/parent), end date for the event, enter description for the event and click on the &#39;Create Event&#39; Select holiday check box if its a holiday event.
 <img src="../images/FAQ_addnewevent1.png">
 <img src="../images/FAQ_Event_AddnewEvent.png">
 
